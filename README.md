@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @waddoo123
 - 👀 I’m interested in learning how to expand my coding knowledge beyond Matlab and into Python.
-- 🌱 I’m currently learning Python, specifically its numpy library.
-- 💞️ I’m looking to collaborate on nothing.
+- 🌱 I’m currently learning Python, specifically with its numpy library.
+- 💞️ I’m not looking to collaborate at the moment.
 - 📫 How to reach me: don't.
 
 <!---
