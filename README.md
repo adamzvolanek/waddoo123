@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @waddoo123
+- 👋 Hi, I’m @AdamZvolanek
 - 👀 I’m interested in learning how to expand my coding knowledge beyond Matlab and into Python.
 - 🌱 I’m currently learning Python, specifically with its numpy library.
 - 💞️ I’m not looking to collaborate at the moment.
